@@ -1,6 +1,6 @@
 # Advent of Code
 
-This repository contains my solutions for the [advent of code](https://adventofcode.com/) puzzles, all written in Python. For 2024, I also tried some Zig.
+This repository contains my solutions for the [advent of code](https://adventofcode.com/) puzzles, mostly written in Python.
 
 Run any of the puzzles with:
 
